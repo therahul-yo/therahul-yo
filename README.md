@@ -21,11 +21,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,git,github,vscode,docker,linux"/>
 </p>
-
-### 📊 the receipts
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therahul-yo&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therahul-yo&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
