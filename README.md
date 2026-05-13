@@ -29,8 +29,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=therahul-yo&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
-
-<p align="center">
-  <i>"i don't always test my code, but when i do, i do it in production"</i>
-</p>
