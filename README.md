@@ -4,8 +4,6 @@
 
 ![coding](typing.gif)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=therahul-yo&color=yellow&style=for-the-badge&label=👁+people+who+have+witnessed+this&labelColor=000000)
-
 </div>
 
 ---
