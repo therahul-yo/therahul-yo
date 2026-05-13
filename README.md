@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">yo, i'm rahul 👋</h1>
 
-<!--
-**therahul-yo/therahul-yo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.tenor.com/x8v1oNUOmg4AAAAi/gojo-dance.gif" width="220" alt="vibing"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>powered by caffeine, chaos, and ctrl+z</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 the vibe
+- 🛠️ building stuff that *probably* works
+- 🐛 my code has more bugs than my room
+- 🍜 will debug for ramen
+- 🌙 nocturnal by design, not by choice
+
+### 🧰 tools of (mis)fortune
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,git,github,vscode,docker,linux"/>
+</p>
